@@ -1,6 +1,7 @@
 # RULETA-PRUEBA
 Proyecto de Prueba de Ruleta-Casino
-Juego realizado con PHP 7, MYSQL, HTML5, CSS, Bootstrap y javascript.
+Juego realizado con PHP 7, MYSQL, HTML5, CSS, Bootstrap y javascript. Para lo cual se uso el instalador Xampp 7.3
+
 En la siguiente url se pueden crear, modificar o eliminar los jugadores
 http://innet-paxenger.site/juego-ruleta-main/vistaJugador.php
 En esta se colocan los respetivos datos del formulario y se da clic en guardar, teniendo en cuenta que para el saldo actual esta por defecto en $15.000 para la creación
